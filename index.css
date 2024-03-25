@@ -5,13 +5,8 @@ body{
 }
 h1{
     text-align: center;
-}
-.first{
-    display: flex;
-}
-.second{
-    align-items: center;
-    justify-content: center;
+    font-weight: 600;
+    font-size: 30px;
 }
 
 /* element.style {
