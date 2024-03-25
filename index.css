@@ -3,6 +3,16 @@ body{
     padding: 0;
     
 }
+h1{
+    text-align: center;
+}
+.first{
+    display: flex;
+}
+.second{
+    align-items: center;
+    justify-content: center;
+}
 
 /* element.style {
     margin: 100px;
